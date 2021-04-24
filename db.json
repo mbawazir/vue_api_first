@@ -1,6 +1,16 @@
 {
   "events": [
     {
+      "id": 1234,
+      "category": "Test",
+      "title": "Majdi Bawazir",
+      "description": "Majdi Bawazir Majdi Bawazir Majdi Bawazir Majdi Bawazir.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
       "id": 123,
       "category": "animal welfare",
       "title": "Cat Adoption Day",
